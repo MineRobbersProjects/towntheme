@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing: tilde.town theme for Jekyll
+title: "Announcing: tilde.town theme for Jekyll"
 ---
 
 Exactly as it says on the tin. This uses the default tilde.town css to theme your town-related blog.

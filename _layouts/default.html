@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+    <style>
+      body {
+        background-color: {{ site.css.bgcolor }};
+        font-family: {{ site.css.font-family }};
+      }
+    </style>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>

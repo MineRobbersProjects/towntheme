@@ -12,7 +12,7 @@ A few possibly asked questions pre-emptively answered:
 * The name is changed using the `name` tag in `_config.yml`.  
 * The url/baseurl for tilde.town usage would be as such:  
 
-    <pre> 
-    url: "https://tilde.town"  
-    baseurl: "/~username"  
-    </pre> 
+    <pre>
+    url: "https://tilde.town"
+    baseurl: "/~username"
+    </pre>

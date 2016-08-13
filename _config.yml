@@ -1,8 +1,10 @@
 timezone: "America/New York"
 
-site: "minerobbersprojects.github.io"
+url: "minerobbersprojects.github.io"
 baseurl: "/towntheme"
 # change previous two lines for tilde.town usage
+
+name: "tilde.town Jekyll theme"
 
 css:
   bgcolor: pink

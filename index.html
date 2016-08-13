@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<h1>{{ site.name }}</h1>
+<hr>
+{% for post in site.posts %}
+<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><span>&nbsp;{{ post.date | date_to_string }}</span>
+<p>{{ post.content | strip_html | truncate: 40 }}</p>
+<hr>
+{% endfor %}
+<a href="http://minerobbersprojects.github.io">Made by MineRobber9000</a>

@@ -1,0 +1,9 @@
+timezone: "America/New York"
+
+site: "minerobbersprojects.github.io"
+baseurl: "/towntheme"
+# change previous two lines for tilde.town usage
+
+css:
+  bgcolor: pink
+  font-family: courier

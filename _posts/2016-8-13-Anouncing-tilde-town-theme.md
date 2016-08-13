@@ -11,8 +11,7 @@ A few possibly asked questions pre-emptively answered:
 * You can edit the CSS from the CSS structure in `_config.yml` (namely, the background color and font family)  
 * The name is changed using the `name` tag in `_config.yml`.  
 * The url/baseurl for tilde.town usage would be as such:  
-
-    <pre>
+<pre>
     url: "https://tilde.town"
     baseurl: "/~username"
-    </pre>
+</pre>
